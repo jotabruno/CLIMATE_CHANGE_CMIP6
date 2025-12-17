@@ -4,7 +4,7 @@ Este repositorio se desarrolló en el marco del curso “Cambio climático y mod
 
 Instructores:
 - Jhonatan Bruno R. / jotabruno33@gmail.com
-- Jorge Llamocca H
+- Jorge Llamocca H / jllamocca1@gmail.com
 
 
 Lima - Perú 
