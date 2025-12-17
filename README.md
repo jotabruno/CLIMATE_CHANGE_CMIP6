@@ -3,7 +3,8 @@ This repository was developed as part of the course “Climate change and CMIP6 
 Este repositorio se desarrolló en el marco del curso “Cambio climático y modelos CMIP6 para la toma de decisiones: un enfoque práctico”, orientado al análisis aplicado de escenarios climáticos CMIP6. Se trabajó con datos NetCDF y escenarios SSP2-4.5 y SSP5-8.5, utilizando Python para la lectura, procesamiento, análisis y visualización de variables climáticas. Los scripts permitieron calcular climatologías, cambios futuros, índices de extremos climáticos, series temporales y productos espaciales (mapas y salidas en NetCDF, CSV, GeoTIFF y Shapefile), con aplicaciones a nivel nacional y regional para apoyar la planificación territorial y la gestión del riesgo.
 
 Instructores:
-- Jhonatan Bruno R.
+- Jhonatan Bruno R. / jotabruno33@gmail.com
 - Jorge Llamocca H
+
 
 Lima - Perú 
