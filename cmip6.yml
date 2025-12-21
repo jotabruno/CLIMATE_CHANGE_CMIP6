@@ -1,0 +1,8 @@
+name: CMIP6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - conda-forge::esmpy
+prefix: C:\Users\jotabruno\anaconda3\envs\CMIP6
